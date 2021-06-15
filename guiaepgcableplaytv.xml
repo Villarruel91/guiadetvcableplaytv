@@ -1,0 +1,945 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CUL | Animal Planet MX">
+    <display-name lang="es">CUL | Animal Planet MX</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CUL | Discovery Familia">
+    <display-name lang="es">CUL | Discovery Familia</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ARG | Telefe">
+    <display-name lang="es">ARG | Telefe</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <programme start="20210615002700 -0300" stop="20210615011800 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Los Irwin</title>
+  </programme>
+  <programme start="20210615011800 -0300" stop="20210615021200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Wild Frank en California</title>
+  </programme>
+  <programme start="20210615021200 -0300" stop="20210615030500 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">El genio de las piscinas</title>
+  </programme>
+  <programme start="20210615030500 -0300" stop="20210615035800 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Mi gato endemoniado</title>
+  </programme>
+  <programme start="20210615035800 -0300" stop="20210615042500 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210615042500 -0300" stop="20210615045200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210615045200 -0300" stop="20210615054600 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Europa salvaje</title>
+  </programme>
+  <programme start="20210615054600 -0300" stop="20210615063700 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Refugio en el granero</title>
+  </programme>
+  <programme start="20210615063700 -0300" stop="20210615073000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Piscinas increíbles</title>
+  </programme>
+  <programme start="20210615073000 -0300" stop="20210615080000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Los secretos del reino animal</title>
+  </programme>
+  <programme start="20210615080000 -0300" stop="20210615082600 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20210615082600 -0300" stop="20210615085600 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20210615085600 -0300" stop="20210615094800 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">El acuario</title>
+  </programme>
+  <programme start="20210615094800 -0300" stop="20210615104000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">El acuario</title>
+  </programme>
+  <programme start="20210615104000 -0300" stop="20210615113100 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">El acuario</title>
+  </programme>
+  <programme start="20210615113100 -0300" stop="20210615122300 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Mi gato endemoniado</title>
+  </programme>
+  <programme start="20210615122300 -0300" stop="20210615125000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210615125000 -0300" stop="20210615131800 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210615131800 -0300" stop="20210615141200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Ríos de África</title>
+  </programme>
+  <programme start="20210615141200 -0300" stop="20210615150200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20210615150200 -0300" stop="20210615155200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Monstruos de río aguas desco</title>
+  </programme>
+  <programme start="20210615155200 -0300" stop="20210615164300 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Expedición Mungo</title>
+  </programme>
+  <programme start="20210615164300 -0300" stop="20210615173400 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Expedición Mungo</title>
+  </programme>
+  <programme start="20210615173400 -0300" stop="20210615191500 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20210615191500 -0300" stop="20210615200600 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20210615200600 -0300" stop="20210615205700 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20210615205700 -0300" stop="20210615214700 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20210615214700 -0300" stop="20210615224300 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Grandes felinos</title>
+  </programme>
+  <programme start="20210615224300 -0300" stop="20210615233300 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Isla salvaje</title>
+  </programme>
+  <programme start="20210615233300 -0300" stop="20210616011900 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Tras las huellas del yeti 2</title>
+  </programme>
+  <programme start="20210616011900 -0300" stop="20210616021200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Wild Frank en California</title>
+  </programme>
+  <programme start="20210616021200 -0300" stop="20210616030500 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20210616030500 -0300" stop="20210616035800 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Mi gato endemoniado</title>
+  </programme>
+  <programme start="20210616035800 -0300" stop="20210616042400 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210616042400 -0300" stop="20210616045100 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210616045100 -0300" stop="20210616054400 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Ríos de África</title>
+  </programme>
+  <programme start="20210616054400 -0300" stop="20210616063700 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Los Irwin</title>
+  </programme>
+  <programme start="20210616063700 -0300" stop="20210616073000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">El zoológico de San Diego</title>
+  </programme>
+  <programme start="20210616073000 -0300" stop="20210616080000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Los secretos del reino animal</title>
+  </programme>
+  <programme start="20210616080000 -0300" stop="20210616082600 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20210616082600 -0300" stop="20210616091800 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Amanda al Rescate</title>
+  </programme>
+  <programme start="20210616091800 -0300" stop="20210616101000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Amanda al Rescate</title>
+  </programme>
+  <programme start="20210616101000 -0300" stop="20210616110200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Amanda al Rescate</title>
+  </programme>
+  <programme start="20210616110200 -0300" stop="20210616115400 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Mi gato endemoniado</title>
+  </programme>
+  <programme start="20210616115400 -0300" stop="20210616122000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210616122000 -0300" stop="20210616124800 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210616124800 -0300" stop="20210616134200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Oriente Medio salvaje</title>
+  </programme>
+  <programme start="20210616134200 -0300" stop="20210616143600 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20210616143600 -0300" stop="20210616153000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pesca de gigantes</title>
+  </programme>
+  <programme start="20210616153000 -0300" stop="20210616162400 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Ríos de África</title>
+  </programme>
+  <programme start="20210616162400 -0300" stop="20210616171800 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Ríos de África</title>
+  </programme>
+  <programme start="20210616171800 -0300" stop="20210616181200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Wild Frank</title>
+  </programme>
+  <programme start="20210616181200 -0300" stop="20210616190600 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Wild Frank En busca del</title>
+  </programme>
+  <programme start="20210616190600 -0300" stop="20210616200000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Cocodrilo en la mira Costa R</title>
+  </programme>
+  <programme start="20210616200000 -0300" stop="20210616205300 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20210616205300 -0300" stop="20210616214600 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20210616214600 -0300" stop="20210616224100 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Metrópolis salvaje</title>
+  </programme>
+  <programme start="20210616224100 -0300" stop="20210616230900 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210616230900 -0300" stop="20210616233700 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210616233700 -0300" stop="20210617002800 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Wild Frank en África</title>
+  </programme>
+  <programme start="20210617002800 -0300" stop="20210617011900 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Guardianes de Texas</title>
+  </programme>
+  <programme start="20210617011900 -0300" stop="20210617021000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Wild Frank en India</title>
+  </programme>
+  <programme start="20210617021000 -0300" stop="20210617030100 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Isla salvaje</title>
+  </programme>
+  <programme start="20210617030100 -0300" stop="20210617035400 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Mi gato endemoniado</title>
+  </programme>
+  <programme start="20210617035400 -0300" stop="20210617042200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210617042200 -0300" stop="20210617045000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210617045000 -0300" stop="20210617054400 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Oriente Medio salvaje</title>
+  </programme>
+  <programme start="20210617054400 -0300" stop="20210617073000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Tras las huellas del yeti 2</title>
+  </programme>
+  <programme start="20210617073000 -0300" stop="20210617080000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Los secretos del reino animal</title>
+  </programme>
+  <programme start="20210617080000 -0300" stop="20210617082600 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20210617082600 -0300" stop="20210617091600 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Solo y en peligro</title>
+  </programme>
+  <programme start="20210617091600 -0300" stop="20210617100800 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Solo y en peligro</title>
+  </programme>
+  <programme start="20210617100800 -0300" stop="20210617110000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Solo y en peligro</title>
+  </programme>
+  <programme start="20210617110000 -0300" stop="20210617115200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Mi gato endemoniado</title>
+  </programme>
+  <programme start="20210617115200 -0300" stop="20210617122100 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210617122100 -0300" stop="20210617125000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210617125000 -0300" stop="20210617134400 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Ríos de África</title>
+  </programme>
+  <programme start="20210617134400 -0300" stop="20210617143700 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20210617143700 -0300" stop="20210617153000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Monstruos de río aguas desco</title>
+  </programme>
+  <programme start="20210617153000 -0300" stop="20210617162400 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Guardianes de Texas</title>
+  </programme>
+  <programme start="20210617162400 -0300" stop="20210617171800 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Guardianes de Texas</title>
+  </programme>
+  <programme start="20210617171800 -0300" stop="20210617180900 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pesca de gigantes</title>
+  </programme>
+  <programme start="20210617180900 -0300" stop="20210617195700 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">El último de su especie</title>
+  </programme>
+  <programme start="20210617195700 -0300" stop="20210617204700 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20210617204700 -0300" stop="20210617213700 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20210617213700 -0300" stop="20210617223300 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Visión animal</title>
+  </programme>
+  <programme start="20210617223300 -0300" stop="20210617232900 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Ríos</title>
+  </programme>
+  <programme start="20210617232900 -0300" stop="20210618002600 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Dinastías</title>
+  </programme>
+  <programme start="20210618002600 -0300" stop="20210618011900 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Europa salvaje</title>
+  </programme>
+  <programme start="20210618011900 -0300" stop="20210618021200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Wild Frank en India</title>
+  </programme>
+  <programme start="20210618021200 -0300" stop="20210618023800 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210618023800 -0300" stop="20210618030500 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210618030500 -0300" stop="20210618035800 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Mi gato endemoniado</title>
+  </programme>
+  <programme start="20210618035800 -0300" stop="20210618042400 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210618042400 -0300" stop="20210618045100 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210618045100 -0300" stop="20210618054400 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Ríos de África</title>
+  </programme>
+  <programme start="20210618054400 -0300" stop="20210618063700 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Guardianes de Texas</title>
+  </programme>
+  <programme start="20210618063700 -0300" stop="20210618073000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Wild Frank en África</title>
+  </programme>
+  <programme start="20210618073000 -0300" stop="20210618080000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Los secretos del reino animal</title>
+  </programme>
+  <programme start="20210618080000 -0300" stop="20210618082600 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+  <programme start="20210618082600 -0300" stop="20210618091800 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">El genio de las piscinas</title>
+  </programme>
+  <programme start="20210618091800 -0300" stop="20210618101000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">El genio de las piscinas</title>
+  </programme>
+  <programme start="20210618101000 -0300" stop="20210618110200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">El genio de las piscinas</title>
+  </programme>
+  <programme start="20210618110200 -0300" stop="20210618115400 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Mi gato endemoniado</title>
+  </programme>
+  <programme start="20210618115400 -0300" stop="20210618122200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210618122200 -0300" stop="20210618125000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Coyote Peterson aventuras sa</title>
+  </programme>
+  <programme start="20210618125000 -0300" stop="20210618134400 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Islas de Indonesia</title>
+  </programme>
+  <programme start="20210618134400 -0300" stop="20210618143700 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20210618143700 -0300" stop="20210618153000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pescadores al límite</title>
+  </programme>
+  <programme start="20210618153000 -0300" stop="20210618162300 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pescadores al límite</title>
+  </programme>
+  <programme start="20210618162300 -0300" stop="20210618171600 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pescadores al límite</title>
+  </programme>
+  <programme start="20210618171600 -0300" stop="20210618181200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Ríos</title>
+  </programme>
+  <programme start="20210618181200 -0300" stop="20210618190800 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Dinastías</title>
+  </programme>
+  <programme start="20210618190800 -0300" stop="20210618200200 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Europa salvaje</title>
+  </programme>
+  <programme start="20210618200200 -0300" stop="20210618205400 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20210618205400 -0300" stop="20210618214700 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20210618214700 -0300" stop="20210618224000 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pescadores al límite</title>
+  </programme>
+  <programme start="20210618224000 -0300" stop="20210619002600 -0300" channel="CUL | Animal Planet MX">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20210615010000 -0300" stop="20210615020000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Rescata mi Restaurante</title>
+  </programme>
+  <programme start="20210615020000 -0300" stop="20210615023000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">En-cubiertos</title>
+  </programme>
+  <programme start="20210615023000 -0300" stop="20210615030000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">En-cubiertos</title>
+  </programme>
+  <programme start="20210615030000 -0300" stop="20210615040000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Hotel sin estrellas</title>
+  </programme>
+  <programme start="20210615040000 -0300" stop="20210615043000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210615043000 -0300" stop="20210615050000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Dra. Polo: ¡Alivio a tu alcance</title>
+  </programme>
+  <programme start="20210615050000 -0300" stop="20210615053000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210615053000 -0300" stop="20210615060000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">¡Increíbles Resultados</title>
+  </programme>
+  <programme start="20210615060000 -0300" stop="20210615063000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Dra. Polo: ¡Alivio a tu alcance</title>
+  </programme>
+  <programme start="20210615063000 -0300" stop="20210615070000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">¡Revitaliza Tus Piernas y Pies</title>
+  </programme>
+  <programme start="20210615070000 -0300" stop="20210615073000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20210615073000 -0300" stop="20210615080000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20210615080000 -0300" stop="20210615083000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20210615083000 -0300" stop="20210615090000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Paz</title>
+  </programme>
+  <programme start="20210615090000 -0300" stop="20210615093000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20210615093000 -0300" stop="20210615100000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20210615100000 -0300" stop="20210615101500 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20210615101500 -0300" stop="20210615103000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20210615103000 -0300" stop="20210615110000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20210615110000 -0300" stop="20210615113000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20210615113000 -0300" stop="20210615123000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20210615123000 -0300" stop="20210615130000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Hi-5 fiesta</title>
+  </programme>
+  <programme start="20210615130000 -0300" stop="20210615140000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Una Gran Familia</title>
+  </programme>
+  <programme start="20210615140000 -0300" stop="20210615143000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210615143000 -0300" stop="20210615150000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210615150000 -0300" stop="20210615153000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210615153000 -0300" stop="20210615160000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210615160000 -0300" stop="20210615163000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210615163000 -0300" stop="20210615170000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210615170000 -0300" stop="20210615190000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Kilos mortales: sus vidas hoy</title>
+  </programme>
+  <programme start="20210615190000 -0300" stop="20210615193000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los cazahogares por el mundo</title>
+  </programme>
+  <programme start="20210615193000 -0300" stop="20210615200000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los cazahogares por el mundo</title>
+  </programme>
+  <programme start="20210615200000 -0300" stop="20210615210000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
+  </programme>
+  <programme start="20210615210000 -0300" stop="20210615213000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20210615213000 -0300" stop="20210615220000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20210615220000 -0300" stop="20210615230000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los Busby</title>
+  </programme>
+  <programme start="20210615230000 -0300" stop="20210616000000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los Waldrop: Ahora somos once</title>
+  </programme>
+  <programme start="20210616000000 -0300" stop="20210616010000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Una Gran Familia</title>
+  </programme>
+  <programme start="20210616010000 -0300" stop="20210616020000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los Busby</title>
+  </programme>
+  <programme start="20210616020000 -0300" stop="20210616030000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los Waldrop: Ahora somos once</title>
+  </programme>
+  <programme start="20210616030000 -0300" stop="20210616040000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Una Gran Familia</title>
+  </programme>
+  <programme start="20210616040000 -0300" stop="20210616043000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210616043000 -0300" stop="20210616050000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Dra. Polo: ¡Alivio a tu alcance</title>
+  </programme>
+  <programme start="20210616050000 -0300" stop="20210616053000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210616053000 -0300" stop="20210616060000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">¡Mantenga su Sistema Inmune Fuerte con MagBlue</title>
+  </programme>
+  <programme start="20210616060000 -0300" stop="20210616063000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Dra. Polo: ¡Alivio a tu alcance</title>
+  </programme>
+  <programme start="20210616063000 -0300" stop="20210616070000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">¡Increíbles Resultados</title>
+  </programme>
+  <programme start="20210616070000 -0300" stop="20210616073000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20210616073000 -0300" stop="20210616080000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20210616080000 -0300" stop="20210616083000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20210616083000 -0300" stop="20210616090000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Paz</title>
+  </programme>
+  <programme start="20210616090000 -0300" stop="20210616093000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20210616093000 -0300" stop="20210616100000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20210616100000 -0300" stop="20210616101500 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20210616101500 -0300" stop="20210616103000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20210616103000 -0300" stop="20210616110000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20210616110000 -0300" stop="20210616113000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20210616113000 -0300" stop="20210616123000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20210616123000 -0300" stop="20210616130000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Hi-5 fiesta</title>
+  </programme>
+  <programme start="20210616130000 -0300" stop="20210616140000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Una Gran Familia</title>
+  </programme>
+  <programme start="20210616140000 -0300" stop="20210616143000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210616143000 -0300" stop="20210616150000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210616150000 -0300" stop="20210616153000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210616153000 -0300" stop="20210616160000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210616160000 -0300" stop="20210616163000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210616163000 -0300" stop="20210616170000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210616170000 -0300" stop="20210616190000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Kilos mortales: sus vidas hoy</title>
+  </programme>
+  <programme start="20210616190000 -0300" stop="20210616193000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los cazahogares por el mundo</title>
+  </programme>
+  <programme start="20210616193000 -0300" stop="20210616200000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los cazahogares por el mundo</title>
+  </programme>
+  <programme start="20210616200000 -0300" stop="20210616210000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
+  </programme>
+  <programme start="20210616210000 -0300" stop="20210616213000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20210616213000 -0300" stop="20210616220000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20210616220000 -0300" stop="20210616230000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Christina en la playa</title>
+  </programme>
+  <programme start="20210616230000 -0300" stop="20210616233000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Rescatando propiedades con Tarek</title>
+  </programme>
+  <programme start="20210616233000 -0300" stop="20210617000000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Rescatando propiedades con Tarek</title>
+  </programme>
+  <programme start="20210617000000 -0300" stop="20210617003000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Restauración vintage</title>
+  </programme>
+  <programme start="20210617003000 -0300" stop="20210617010000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Restauración vintage</title>
+  </programme>
+  <programme start="20210617010000 -0300" stop="20210617020000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Christina en la playa</title>
+  </programme>
+  <programme start="20210617020000 -0300" stop="20210617023000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Rescatando propiedades con Tarek</title>
+  </programme>
+  <programme start="20210617023000 -0300" stop="20210617030000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Rescatando propiedades con Tarek</title>
+  </programme>
+  <programme start="20210617030000 -0300" stop="20210617033000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Restauración vintage</title>
+  </programme>
+  <programme start="20210617033000 -0300" stop="20210617040000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Restauración vintage</title>
+  </programme>
+  <programme start="20210617043000 -0300" stop="20210617050000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">¡Revitaliza Tus Piernas y Pies</title>
+  </programme>
+  <programme start="20210617053000 -0300" stop="20210617060000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Dra. Polo: ¡Alivio a tu alcance</title>
+  </programme>
+  <programme start="20210617060000 -0300" stop="20210617063000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">¡Mantenga su Sistema Inmune Fuerte con MagBlue</title>
+  </programme>
+  <programme start="20210617063000 -0300" stop="20210617070000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Dra. Polo: ¡Alivio a tu alcance</title>
+  </programme>
+  <programme start="20210617070000 -0300" stop="20210617073000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20210617073000 -0300" stop="20210617080000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20210617080000 -0300" stop="20210617083000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20210617083000 -0300" stop="20210617090000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Paz</title>
+  </programme>
+  <programme start="20210617090000 -0300" stop="20210617093000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20210617093000 -0300" stop="20210617100000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20210617100000 -0300" stop="20210617101500 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20210617101500 -0300" stop="20210617103000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20210617103000 -0300" stop="20210617110000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20210617110000 -0300" stop="20210617113000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20210617113000 -0300" stop="20210617123000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20210617130000 -0300" stop="20210617140000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Una Gran Familia</title>
+  </programme>
+  <programme start="20210617140000 -0300" stop="20210617143000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210617143000 -0300" stop="20210617150000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210617150000 -0300" stop="20210617153000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210617153000 -0300" stop="20210617160000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210617160000 -0300" stop="20210617163000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210617163000 -0300" stop="20210617170000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210617170000 -0300" stop="20210617190000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Kilos mortales: sus vidas hoy</title>
+  </programme>
+  <programme start="20210617190000 -0300" stop="20210617193000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los cazahogares por el mundo</title>
+  </programme>
+  <programme start="20210617193000 -0300" stop="20210617200000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los cazahogares por el mundo</title>
+  </programme>
+  <programme start="20210617200000 -0300" stop="20210617210000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
+  </programme>
+  <programme start="20210617210000 -0300" stop="20210617213000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20210617213000 -0300" stop="20210617220000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20210617220000 -0300" stop="20210618000000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Todo en 90 días: ¿Felices por siempre</title>
+  </programme>
+  <programme start="20210618000000 -0300" stop="20210618010000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">La familia de Chantel</title>
+  </programme>
+  <programme start="20210618010000 -0300" stop="20210618030000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Todo en 90 días: ¿Felices por siempre</title>
+  </programme>
+  <programme start="20210618030000 -0300" stop="20210618040000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">La familia de Chantel</title>
+  </programme>
+  <programme start="20210618043000 -0300" stop="20210618050000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210618050000 -0300" stop="20210618053000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">¡Increíbles Resultados</title>
+  </programme>
+  <programme start="20210618070000 -0300" stop="20210618073000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20210618073000 -0300" stop="20210618080000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20210618080000 -0300" stop="20210618083000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20210618083000 -0300" stop="20210618090000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Paz</title>
+  </programme>
+  <programme start="20210618090000 -0300" stop="20210618093000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20210618093000 -0300" stop="20210618100000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
+  <programme start="20210618100000 -0300" stop="20210618101500 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20210618101500 -0300" stop="20210618103000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20210618103000 -0300" stop="20210618110000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Doki</title>
+  </programme>
+  <programme start="20210618110000 -0300" stop="20210618113000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20210618113000 -0300" stop="20210618123000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">El zoo de Zu</title>
+  </programme>
+  <programme start="20210618130000 -0300" stop="20210618140000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Una Gran Familia</title>
+  </programme>
+  <programme start="20210618140000 -0300" stop="20210618143000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210618143000 -0300" stop="20210618150000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210618150000 -0300" stop="20210618153000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210618153000 -0300" stop="20210618160000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210618160000 -0300" stop="20210618163000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210618163000 -0300" stop="20210618170000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20210618170000 -0300" stop="20210618190000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Kilos mortales: sus vidas hoy</title>
+  </programme>
+  <programme start="20210618190000 -0300" stop="20210618193000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los cazahogares por el mundo</title>
+  </programme>
+  <programme start="20210618193000 -0300" stop="20210618200000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los cazahogares por el mundo</title>
+  </programme>
+  <programme start="20210618200000 -0300" stop="20210618203000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los cazahogares por el mundo</title>
+  </programme>
+  <programme start="20210618203000 -0300" stop="20210618210000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los cazahogares por el mundo</title>
+  </programme>
+  <programme start="20210618210000 -0300" stop="20210618213000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los cazahogares por el mundo</title>
+  </programme>
+  <programme start="20210618213000 -0300" stop="20210618220000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Los cazahogares por el mundo</title>
+  </programme>
+  <programme start="20210618220000 -0300" stop="20210618230000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Vender para comprar</title>
+  </programme>
+  <programme start="20210618230000 -0300" stop="20210619000000 -0300" channel="CUL | Discovery Familia">
+    <title lang="es">Hermanos a la obra</title>
+  </programme>
+  <programme start="20210615223000 -0300" stop="20210616000000 -0300" channel="ARG | Telefe">
+    <title lang="es">Masterchef Celebrity</title>
+  </programme>
+  <programme start="20210616000000 -0300" stop="20210616003000 -0300" channel="ARG | Telefe">
+    <title lang="es">Icerde</title>
+  </programme>
+  <programme start="20210616003000 -0300" stop="20210616005500 -0300" channel="ARG | Telefe">
+    <title lang="es">Staff</title>
+  </programme>
+  <programme start="20210616005500 -0300" stop="20210616010000 -0300" channel="ARG | Telefe">
+    <title lang="es">Espacios comerciales</title>
+  </programme>
+  <programme start="20210616010000 -0300" stop="20210616013000 -0300" channel="ARG | Telefe">
+    <title lang="es">La hora del milagro</title>
+  </programme>
+  <programme start="20210616013000 -0300" stop="20210616023000 -0300" channel="ARG | Telefe">
+    <title lang="es">Leiva joyas</title>
+  </programme>
+  <programme start="20210616023000 -0300" stop="20210616024500 -0300" channel="ARG | Telefe">
+    <title lang="es">Perra vida</title>
+  </programme>
+  <programme start="20210616024500 -0300" stop="20210616040000 -0300" channel="ARG | Telefe">
+    <title lang="es">Catfish</title>
+  </programme>
+  <programme start="20210616040000 -0300" stop="20210616060000 -0300" channel="ARG | Telefe">
+    <title lang="es">Espacios comerciales</title>
+  </programme>
+  <programme start="20210616060000 -0300" stop="20210616064500 -0300" channel="ARG | Telefe">
+    <title lang="es">Nick Jr.</title>
+  </programme>
+  <programme start="20210616064500 -0300" stop="20210616070000 -0300" channel="ARG | Telefe">
+    <title lang="es">Tránsito y temperatura</title>
+  </programme>
+  <programme start="20210616070000 -0300" stop="20210616093000 -0300" channel="ARG | Telefe">
+    <title lang="es">Buen Telefe</title>
+  </programme>
+  <programme start="20210616093000 -0300" stop="20210616101500 -0300" channel="ARG | Telefe">
+    <title lang="es">Mujer</title>
+  </programme>
+  <programme start="20210616101500 -0300" stop="20210616113000 -0300" channel="ARG | Telefe">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20210616113000 -0300" stop="20210616130000 -0300" channel="ARG | Telefe">
+    <title lang="es">Flor de equipo</title>
+  </programme>
+  <programme start="20210616130000 -0300" stop="20210616143000 -0300" channel="ARG | Telefe">
+    <title lang="es">El noticiero de la gente</title>
+  </programme>
+  <programme start="20210616143000 -0300" stop="20210616160000 -0300" channel="ARG | Telefe">
+    <title lang="es">Cortá por Lozano</title>
+  </programme>
+  <programme start="20210616160000 -0300" stop="20210616164500 -0300" channel="ARG | Telefe">
+    <title lang="es">Mujer</title>
+  </programme>
+  <programme start="20210616164500 -0300" stop="20210616174500 -0300" channel="ARG | Telefe">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20210616174500 -0300" stop="20210616183000 -0300" channel="ARG | Telefe">
+    <title lang="es">Guerra de rosas</title>
+  </programme>
+  <programme start="20210616183000 -0300" stop="20210616200000 -0300" channel="ARG | Telefe">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210616200000 -0300" stop="20210616211500 -0300" channel="ARG | Telefe">
+    <title lang="es">Telefe noticias</title>
+  </programme>
+  <programme start="20210616211500 -0300" stop="20210616223000 -0300" channel="ARG | Telefe">
+    <title lang="es">Doctor Milagro</title>
+  </programme>
+  <programme start="20210616223000 -0300" stop="20210617000000 -0300" channel="ARG | Telefe">
+    <title lang="es">Masterchef Celebrity</title>
+  </programme>
+  <programme start="20210617223000 -0300" stop="20210618000000 -0300" channel="ARG | Telefe">
+    <title lang="es">Masterchef Celebrity</title>
+  </programme>
+  <programme start="20210618000000 -0300" stop="20210618003000 -0300" channel="ARG | Telefe">
+    <title lang="es">Icerde</title>
+  </programme>
+  <programme start="20210618003000 -0300" stop="20210618005500 -0300" channel="ARG | Telefe">
+    <title lang="es">Staff</title>
+  </programme>
+  <programme start="20210618005500 -0300" stop="20210618010000 -0300" channel="ARG | Telefe">
+    <title lang="es">Aprendemos juntos</title>
+  </programme>
+  <programme start="20210618010000 -0300" stop="20210618013000 -0300" channel="ARG | Telefe">
+    <title lang="es">La hora del milagro</title>
+  </programme>
+  <programme start="20210618013000 -0300" stop="20210618023000 -0300" channel="ARG | Telefe">
+    <title lang="es">Leiva joyas</title>
+  </programme>
+  <programme start="20210618023000 -0300" stop="20210618024500 -0300" channel="ARG | Telefe">
+    <title lang="es">Perra vida</title>
+  </programme>
+  <programme start="20210618024500 -0300" stop="20210618040000 -0300" channel="ARG | Telefe">
+    <title lang="es">Catfish</title>
+  </programme>
+  <programme start="20210618040000 -0300" stop="20210618060000 -0300" channel="ARG | Telefe">
+    <title lang="es">Espacios comerciales</title>
+  </programme>
+  <programme start="20210618060000 -0300" stop="20210618064500 -0300" channel="ARG | Telefe">
+    <title lang="es">Nick Jr.</title>
+  </programme>
+  <programme start="20210618064500 -0300" stop="20210618070000 -0300" channel="ARG | Telefe">
+    <title lang="es">Tránsito y temperatura</title>
+  </programme>
+  <programme start="20210618070000 -0300" stop="20210618093000 -0300" channel="ARG | Telefe">
+    <title lang="es">Buen Telefe</title>
+  </programme>
+  <programme start="20210618093000 -0300" stop="20210618101500 -0300" channel="ARG | Telefe">
+    <title lang="es">Mujer</title>
+  </programme>
+  <programme start="20210618101500 -0300" stop="20210618113000 -0300" channel="ARG | Telefe">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20210618113000 -0300" stop="20210618130000 -0300" channel="ARG | Telefe">
+    <title lang="es">Flor de equipo</title>
+  </programme>
+  <programme start="20210618130000 -0300" stop="20210618143000 -0300" channel="ARG | Telefe">
+    <title lang="es">El noticiero de la gente</title>
+  </programme>
+  <programme start="20210618143000 -0300" stop="20210618160000 -0300" channel="ARG | Telefe">
+    <title lang="es">Cortá por Lozano</title>
+  </programme>
+  <programme start="20210618160000 -0300" stop="20210618164500 -0300" channel="ARG | Telefe">
+    <title lang="es">Mujer</title>
+  </programme>
+  <programme start="20210618164500 -0300" stop="20210618174500 -0300" channel="ARG | Telefe">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20210618174500 -0300" stop="20210618183000 -0300" channel="ARG | Telefe">
+    <title lang="es">Guerra de rosas</title>
+  </programme>
+  <programme start="20210618183000 -0300" stop="20210618200000 -0300" channel="ARG | Telefe">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210618200000 -0300" stop="20210618211500 -0300" channel="ARG | Telefe">
+    <title lang="es">Telefe noticias</title>
+  </programme>
+  <programme start="20210618211500 -0300" stop="20210618223000 -0300" channel="ARG | Telefe">
+    <title lang="es">Doctor Milagro</title>
+  </programme>
+  <programme start="20210618223000 -0300" stop="20210619000000 -0300" channel="ARG | Telefe">
+    <title lang="es">Masterchef Celebrity</title>
+  </programme>
+  <programme start="20210619223000 -0300" stop="20210620000000 -0300" channel="ARG | Telefe">
+    <title lang="es">Masterchef Celebrity</title>
+  </programme>
+</tv>
